@@ -1,2 +1,2 @@
-# 🧬 NRD-MMP-ACM 🧪
+# 🧬 NRD-T2MI-Precip 🧪
 
